@@ -2,7 +2,7 @@
 
 ## Official
 
-[Website](https://golang.org/), [Blog](http://blog.golang.org/open-source), [Docs](https://golang.org/doc/)
+[Website](https://golang.org/) | [Blog](http://blog.golang.org/open-source) | [Docs](https://golang.org/doc/) | [Language Spec](http://golang.org/ref/spec)
 
 ## Introductions
 
